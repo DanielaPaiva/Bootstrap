@@ -1,0 +1,50 @@
+nav{
+    background: linear-gradient(90deg, hsla(339, 100%, 55%, 1) 0%, hsla(295, 30%, 55%, 1) 45%, hsla(197, 100%, 64%, 1) 100%);
+}
+
+.dropdown-menu{
+    background-color: rgba(255, 255, 255, 0.486);
+    border:none;
+}
+.dropdown-menu a:hover{
+    background-color:#45caff8f;
+    border:none;
+}
+button{
+    background-color: rgba(255, 255, 255, 0.486);
+    
+}
+
+.jumbotron {
+    background: linear-gradient(90deg, hsla(339, 100%, 55%, 1) 0%, hsla(295, 30%, 55%, 1) 45%, hsla(197, 100%, 64%, 1) 100%);
+}
+
+/*Forms*/
+#form{
+    background: linear-gradient(90deg, rgba(255, 26, 106, 0.555) 0%, rgba(169, 106, 175, 0.575) 45%, rgba(71, 203, 255, 0.479) 100%);
+}
+
+footer{
+    background: linear-gradient(90deg, hsla(339, 100%, 55%, 1) 0%, hsla(295, 30%, 55%, 1) 45%, hsla(197, 100%, 64%, 1) 100%);
+    margin-top: 35px;
+    font-size: 18px;
+    color: white;
+    font-family: 'Special Elite', cursive;
+    text-align:center ;
+    width: 100%;
+}
+footer a:hover{
+    color: rgba(15, 15, 15, 0.692);
+   
+   
+}
+.redes img{
+    width:45px;
+    height:40px;
+    padding:7px;   
+}
+.redes img:hover{
+    background-color:rgba(0,0,0,0.5);
+    padding:11px;
+     text-align:center;
+}
